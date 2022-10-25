@@ -3,10 +3,12 @@
 - ASP.NET Core and Entity Framework 6
 - React 16
 - React Bootstrap
+- React-quill
 - JavaScript (ES6)
 - TypeScript
 - C#.NET 6.0
 - Sql Server2016
+- Newtonsoft.Json
 
 **This application is all about managing all technologies interview questions at one place. It comes with the below features.**
 - Add or Remove Technologies
