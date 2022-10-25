@@ -2,7 +2,9 @@
 **iPrep is a web application developed with the below technologies.**
 - ASP.NET Core and Entity Framework 6
 - React 16
+- React Bootstrap
 - JavaScript (ES6)
+- TypeScript
 - C#.NET 6.0
 - Sql Server2016
 
